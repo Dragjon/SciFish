@@ -1,4 +1,4 @@
-![image](https://github.com/Dragjon/SciFish/assets/140328303/68ff2c54-764a-428f-9fbe-294553426f38)
+![image](https://github.com/Dragjon/SciFish/assets/140328303/91824a63-0476-4f79-9ce9-54aab163a36e)
 
 # SciFish
  Chess Bot in python using the command line interface <br>
