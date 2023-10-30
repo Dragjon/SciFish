@@ -1,4 +1,3 @@
-Build Status In progrss
 # SciFish
  Chess Bot in python using the command line interface <br>
 # If you want to run the python code on your own
