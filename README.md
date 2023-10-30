@@ -1,3 +1,5 @@
+![image](https://github.com/Dragjon/SciFish/assets/140328303/0c9c3731-9c7a-4e9f-93f8-0b9e517c649c)
+
 # SciFish
  Chess Bot in python using the command line interface <br>
 # If you want to run the python code on your own
