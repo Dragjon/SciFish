@@ -6,7 +6,9 @@
 # If you want to run the executable
 1) Navigate to `\build\exe.win-amd64-3.11\SciFish.exe` and run the executable
 # Example
-![image](https://github.com/Dragjon/SciFish/assets/140328303/bde360a4-ef79-4c19-be38-038d9f89fa62)
+Command line interface
+![image](https://github.com/Dragjon/SciFish/assets/140328303/47f67c53-afe4-4dfd-b6cd-5a3cd7464ace)
+
 
  
 
