@@ -1,2 +1,3 @@
 # SciFish
- Chess Bot in python
+ Chess Bot in python using the command line interface
+
