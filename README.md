@@ -8,6 +8,9 @@
 # Example
 Command line interface
 ![image](https://github.com/Dragjon/SciFish/assets/140328303/47f67c53-afe4-4dfd-b6cd-5a3cd7464ace)
+# Usage
+To play against SciFish, input moves as SAN notation, for example e4 <br>
+Currently only play as white
 
 
  
